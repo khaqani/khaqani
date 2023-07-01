@@ -3,7 +3,7 @@
 
 
 ### 🖥 Skills
-- Full-Stack Web Developers
+- Full-Stack Web Developer
 - Graphic Designer
 - Cyber Security Researcher 
 
